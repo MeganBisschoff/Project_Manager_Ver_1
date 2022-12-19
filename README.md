@@ -1,4 +1,4 @@
-# Project Manager
+# Project Manager Ver.1
 
 A Java program that tracks various projects and project members.
 
