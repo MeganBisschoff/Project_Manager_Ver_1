@@ -1,6 +1,6 @@
 # Project Manager Ver.1
 
-A Java program that tracks various projects and project members.
+A Java program that tracks various project details and project members.
 
 ## Description
 
@@ -10,9 +10,9 @@ At startup, the staff member is presented with the Poised program menu. In order
 
 The program includes the following classes:
 
-* Poised (the parent class with the main method)
-* Project
-* Person
+* ``Poised()`` (the parent class with the main method)
+* ``Project()``
+* ``Person()``
 
 From the menu, in the main class, the staff member is able to:
 
@@ -175,8 +175,8 @@ A project is complete when it starts working for you, rather than you working fo
 
 ## Author
 
-Megan Bisschoff
+**Megan Bisschoff** 2022
 
 Project submitted for Software Engineering learnership Level 2 Task 07 at [HyperionDev](https://www.hyperiondev.com/)
 
-[View](https://www.hyperiondev.com/portfolio/86596/) submission results and code review.
+[View](https://www.hyperiondev.com/portfolio/86596/) submission results.
